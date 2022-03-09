@@ -3,6 +3,9 @@
 </br>
 
 ### Para crear un proyecto
+Lo ideal es crear un entorno virtual de python, eso tambien se hace en node, es importante porque guarda las versiones de las librerias y todo lo que se este usando en el proyecto. Al crear un pyenv, se crearan unas carpetas que se llaman bin y lib, entonces en la ruta donde estan esas carpetas esta el entorno virtual, esto es como en recordatorio, ya que debemos activar el entorno para instalar una libreria nueva. 
+
+
 * Le llamaremos al pryecto project1  
 ``` 
 django-admin startproject project1
