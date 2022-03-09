@@ -11,7 +11,7 @@ Lo ideal es crear un entorno virtual de python, eso tambien se hace en node, es 
 django-admin startproject project1
 ``` 
 
-* Para inicializar el proyecto debemos tipiar el siguiente comando, si no configuramos al base de datos, or defecto trabajaremos con sqlite3
+* Para inicializar el proyecto debemos tipiar el siguiente comando, si no configuramos al base de datos, por defecto trabajaremos con sqlite3
 
 </br>
 
