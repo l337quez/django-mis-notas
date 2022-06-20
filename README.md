@@ -59,7 +59,7 @@ exit
 </br>
 
 ### **Instalar dependencias al estilo de npm**
-Es usual que el proyecto este en un repositorio y debemos bajarlo e instalar las dependencias, En node se usa "npm install", pero en python con pipenv lo asi muy parecido.
+Es usual que el proyecto este en un repositorio y debemos bajarlo e instalar las dependencias, En node se usa "npm install", pero en python con pipenv lo hace muy parecido.
 ```
 pipenv install
 ```
