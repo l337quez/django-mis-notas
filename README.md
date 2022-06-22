@@ -34,6 +34,13 @@ Esto es muy genial, ya que activa el entorno virtual por nosotros.
 
 </br>
 
+Eliminar la env virtual
+```
+pipenv --rm
+```
+
+</br>
+
 ### **Instalamos paqutenes necesarios**
 Para instalar uno o varios paquetes dentro del entorno virtual, hacemos lo siguiente.
 ```
